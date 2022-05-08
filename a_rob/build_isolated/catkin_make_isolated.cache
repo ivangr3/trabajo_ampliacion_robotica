@@ -1,0 +1,2 @@
+
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/ivan/a_rob/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/ivan/a_rob/install_isolated
